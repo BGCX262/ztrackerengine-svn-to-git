@@ -1,0 +1,8 @@
+@charset "UTF-8";
+@media screen, projection
+{
+  #col1 { width: 200px; }
+  #col2, #col2_content { display:none; }
+  #col3 { margin-left: 200px; margin-right: 0; }
+  #col3_content { padding: 10px 20px 10px 10px; }
+}

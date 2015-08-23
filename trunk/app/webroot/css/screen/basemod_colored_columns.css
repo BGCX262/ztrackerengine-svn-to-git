@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@media screen, projection
+{
+  #col1_content { margin:  0 10px; padding: 0 }
+  #col2_content { margin:  0 10px; padding: 0 }
+  #col3_content { margin:  0 10px; padding: 0 }
+  #main {background: #fff }
+
+}

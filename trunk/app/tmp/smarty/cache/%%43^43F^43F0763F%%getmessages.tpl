@@ -1,0 +1,2 @@
+188
+a:4:{s:8:"template";a:1:{s:66:"/var/www/localhost/htdocs/ztracker/app/views/users/getmessages.tpl";b:1;}s:9:"timestamp";i:1214409405;s:7:"expires";i:1214413005;s:13:"cache_serials";a:0:{}}{"messages":[{"id":"25","subject":"\u0411\u0435\u0437 \u0442\u0435\u043c\u044b","body":"rewfdas\r\nfdasfdsa\r\nfdsafdsafdsa","date":"0000-00-00 00:00:00","sender":"hotspur","receiver":"testuser","new":"no","checked":"false"}]}

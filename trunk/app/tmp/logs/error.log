@@ -1,0 +1,340 @@
+2008-07-10 12:30:08 Warning: Warning (512): Smarty error: unable to read resource: "/var/www/localhost/htdocs/app/views/pendings/activateAccount.tpl" in [APP/vendors/Smarty/Smarty.class.php, line 1092]
+2008-07-10 14:36:25 Warning: Warning (512): Smarty error: unable to read resource: "/var/www/localhost/htdocs/app/views/pendings/activateAccount.tpl" in [APP/vendors/Smarty/Smarty.class.php, line 1092]
+2008-07-10 15:07:55 Warning: Warning (512): (vendor) Deprecated, see App::import('Vendor', '...'); in [CORE/cake/basics.php, line 1123]
+2008-07-10 15:07:56 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/localhost/htdocs/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 577]
+2008-07-10 15:09:08 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 10
+)
+" in [CORE/cake/libs/model/db_acl.php, line 196]
+2008-07-10 15:09:08 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 10
+            [username] => hotspur
+            [old_password] => 
+            [passhash] => c5cf5fb4f44a40e0a06ad41ef57b72a9
+            [secret] => xr5o7NeWrQ8XmZAJzXmq
+            [email] => hotspur@bymep.com
+            [status] => confirmed
+            [added] => 2007-09-29 17:38:35
+            [last_login] => 2007-11-16 03:15:23
+            [last_access] => 2008-07-09 11:11:13
+            [editsecret] => UKUFja8oqw2Dw8okwVkZ
+            [privacy] => normal
+            [stylesheet] => 1
+            [info] => [img]http://img529.imageshack.us/img529/8352/freebsdkde2jr6.png[/img]
+[img]http://img514.imageshack.us/img514/2050/linux2wx9.jpg[/img]
+[img]http://img519.imageshack.us/img519/4825/gentoobaroh2.jpg[/img]
+            [acceptpms] => yes
+            [ip] => 127.0.0.1
+            [class] => 6
+            [override_class] => 255
+            [support] => no
+            [supportfor] => 
+            [avatar] => http://img168.imageshack.us/img168/8931/376vx0.png
+            [icq] => 623014
+            [msn] => 
+            [jabber] => 
+            [yahoo] => xzkutor
+            [skype] => andrey.mozharovsky
+            [mirc] => hotspur
+            [website] => 
+            [uploaded] => 79057990
+            [downloaded] => 32123
+            [bonus] => 10.25
+            [title] => Разработчик
+            [country] => 70
+            [notifs] => 
+            [modcomment] => 2007-10-01 - Повышен до класса "Директор" пользователем BETEPOK.
+2007-09-29 - Повышен до класса "Модератор" пользователем BETEPOK.
+2007-09-29 - Повышен до класса "Аплоадер" пользователем BETEPOK.
+2007-09-29 - Повышен до класса "Опытный пользователь" пользователем BETEPOK.
+2007-09-29 - Пользователь BETEPOK добавил 5 GB к раздаче.
+
+            [enabled] => yes
+            [parked] => no
+            [avatars] => yes
+            [donor] => no
+            [simpaty] => 0
+            [warned] => no
+            [warneduntil] => 0000-00-00 00:00:00
+            [torrentsperpage] => 0
+            [topicsperpage] => 0
+            [postsperpage] => 0
+            [gender] => 1
+            [birthday] => 1980-07-22
+            [passkey] => aca6a44e235724e3879645e8225e5b34
+            [language] => russian
+            [invites] => 0
+            [invitedby] => 0
+            [invitedroot] => 0
+            [passkey_ip] => 
+            [cust_status] => 0
+            [group_id] => 8
+            [pending] => no
+        )
+
+)
+
+Aco: Chat in [CORE/cake/libs/controller/components/acl.php, line 282]
+2008-07-10 15:09:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/localhost/htdocs/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 577]
+2008-07-10 15:09:09 Warning: Warning (512): AclNode::node() - Couldn't find Aro node identified by "Array
+(
+    [Aro0.model] => User
+    [Aro0.foreign_key] => 10
+)
+" in [CORE/cake/libs/model/db_acl.php, line 196]
+2008-07-10 15:09:09 Warning: Warning (512): DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:
+Aro: Array
+(
+    [User] => Array
+        (
+            [id] => 10
+            [username] => hotspur
+            [old_password] => 
+            [passhash] => c5cf5fb4f44a40e0a06ad41ef57b72a9
+            [secret] => xr5o7NeWrQ8XmZAJzXmq
+            [email] => hotspur@bymep.com
+            [status] => confirmed
+            [added] => 2007-09-29 17:38:35
+            [last_login] => 2007-11-16 03:15:23
+            [last_access] => 2008-07-09 11:11:13
+            [editsecret] => UKUFja8oqw2Dw8okwVkZ
+            [privacy] => normal
+            [stylesheet] => 1
+            [info] => [img]http://img529.imageshack.us/img529/8352/freebsdkde2jr6.png[/img]
+[img]http://img514.imageshack.us/img514/2050/linux2wx9.jpg[/img]
+[img]http://img519.imageshack.us/img519/4825/gentoobaroh2.jpg[/img]
+            [acceptpms] => yes
+            [ip] => 127.0.0.1
+            [class] => 6
+            [override_class] => 255
+            [support] => no
+            [supportfor] => 
+            [avatar] => http://img168.imageshack.us/img168/8931/376vx0.png
+            [icq] => 623014
+            [msn] => 
+            [jabber] => 
+            [yahoo] => xzkutor
+            [skype] => andrey.mozharovsky
+            [mirc] => hotspur
+            [website] => 
+            [uploaded] => 79057990
+            [downloaded] => 32123
+            [bonus] => 10.25
+            [title] => Разработчик
+            [country] => 70
+            [notifs] => 
+            [modcomment] => 2007-10-01 - Повышен до класса "Директор" пользователем BETEPOK.
+2007-09-29 - Повышен до класса "Модератор" пользователем BETEPOK.
+2007-09-29 - Повышен до класса "Аплоадер" пользователем BETEPOK.
+2007-09-29 - Повышен до класса "Опытный пользователь" пользователем BETEPOK.
+2007-09-29 - Пользователь BETEPOK добавил 5 GB к раздаче.
+
+            [enabled] => yes
+            [parked] => no
+            [avatars] => yes
+            [donor] => no
+            [simpaty] => 0
+            [warned] => no
+            [warneduntil] => 0000-00-00 00:00:00
+            [torrentsperpage] => 0
+            [topicsperpage] => 0
+            [postsperpage] => 0
+            [gender] => 1
+            [birthday] => 1980-07-22
+            [passkey] => aca6a44e235724e3879645e8225e5b34
+            [language] => russian
+            [invites] => 0
+            [invitedby] => 0
+            [invitedroot] => 0
+            [passkey_ip] => 
+            [cust_status] => 0
+            [group_id] => 8
+            [pending] => no
+        )
+
+)
+
+Aco: Chat in [CORE/cake/libs/controller/components/acl.php, line 282]
+2008-07-10 15:09:09 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/localhost/htdocs/cake/basics.php:111) in [CORE/cake/libs/controller/controller.php, line 577]
+2008-07-10 15:17:41 Warning: Warning (512): (vendor) Deprecated, see App::import('Vendor', '...'); in [CORE/cake/basics.php, line 1123]
+2008-07-10 15:26:28 Warning: Warning (512): (vendor) Deprecated, see App::import('Vendor', '...'); in [CORE/cake/basics.php, line 1123]
+2008-07-10 15:26:28 Warning: Warning (2): chmod() [<a href='http://php.net/function.chmod'>function.chmod</a>]: Operation not permitted in [CORE/vendors/phpfreechat/src/pfctools.php, line 180]
+2008-07-10 15:26:31 Warning: Warning (512): (vendor) Deprecated, see App::import('Vendor', '...'); in [CORE/cake/basics.php, line 1123]
+2008-07-10 15:26:34 Warning: Warning (512): (vendor) Deprecated, see App::import('Vendor', '...'); in [CORE/cake/basics.php, line 1123]
+2008-07-10 15:28:03 Warning: Warning (512): (vendor) Deprecated, see App::import('Vendor', '...'); in [CORE/cake/basics.php, line 1123]
+2008-07-10 15:28:04 Warning: Warning (512): (vendor) Deprecated, see App::import('Vendor', '...'); in [CORE/cake/basics.php, line 1123]
+2008-07-10 15:28:06 Warning: Warning (512): (vendor) Deprecated, see App::import('Vendor', '...'); in [CORE/cake/basics.php, line 1123]
+2008-07-11 10:55:22 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Aro.foreign__key' in 'where clause'</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 512]
+2008-07-11 11:22:07 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY t.id LIMIT 10 OFFSET 0' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 512]
+2008-07-11 11:22:07 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:22:08 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY t.id LIMIT 10 OFFSET 0' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 512]
+2008-07-11 11:22:08 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:23:07 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 1 GROUP BY t.id LIMIT 10 OFFSET 0' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 512]
+2008-07-11 11:23:07 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:23:08 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 1 GROUP BY t.id LIMIT 10 OFFSET 0' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 512]
+2008-07-11 11:23:08 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:23:45 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:23:59 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:30:21 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/controllers/torrents_controller.php, line 312]
+2008-07-11 11:38:56 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:39:00 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:40:02 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:40:02 Warning: Warning (2): fopen(/var/www/localhost/htdocs/app/tmp/cache/persistent/cake_core_object_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 146]
+2008-07-11 11:40:02 Warning: Warning (2): fopen(/var/www/localhost/htdocs/app/tmp/cache/persistent/cake_core_dir_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 146]
+2008-07-11 11:40:02 Warning: Warning (2): fopen(/var/www/localhost/htdocs/app/tmp/cache/persistent/cake_core_file_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 146]
+2008-07-11 11:40:06 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:40:06 Warning: Warning (2): fopen(/var/www/localhost/htdocs/app/tmp/cache/persistent/cake_core_object_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 146]
+2008-07-11 11:40:06 Warning: Warning (2): fopen(/var/www/localhost/htdocs/app/tmp/cache/persistent/cake_core_dir_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 146]
+2008-07-11 11:40:06 Warning: Warning (2): fopen(/var/www/localhost/htdocs/app/tmp/cache/persistent/cake_core_file_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 146]
+2008-07-11 11:40:11 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:40:16 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:45:18 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:45:27 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:55:14 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:55:24 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:55:36 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:55:41 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:55:51 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 11:55:52 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:19:43 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%F8^F85^F857E227%%index.tpl.php, line 57]
+2008-07-11 12:19:43 Warning: Warning (2): fopen(/var/www/localhost/htdocs/app/tmp/cache/persistent/cake_core_object_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 146]
+2008-07-11 12:19:43 Warning: Warning (2): fopen(/var/www/localhost/htdocs/app/tmp/cache/persistent/cake_core_dir_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 146]
+2008-07-11 12:19:43 Warning: Warning (2): fopen(/var/www/localhost/htdocs/app/tmp/cache/persistent/cake_core_file_map) [<a href='http://php.net/function.fopen'>function.fopen</a>]: failed to open stream: Permission denied in [CORE/cake/libs/file.php, line 146]
+2008-07-11 12:28:52 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:29:07 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:29:55 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:30:19 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:30:50 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:31:00 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:31:01 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:55:14 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:55:38 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-11 12:56:42 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%24^24B^24BCC959%%index.tpl.php, line 73]
+2008-07-12 15:27:37 Warning: Warning (2): preg_match() [<a href='http://php.net/function.preg-match'>function.preg-match</a>]: Empty regular expression in [APP/views/helpers/menu.php, line 10]
+2008-07-12 15:27:37 Warning: Warning (2): preg_match() [<a href='http://php.net/function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in [APP/views/helpers/menu.php, line 10]
+2008-07-12 15:28:13 Warning: Warning (2): preg_match() [<a href='http://php.net/function.preg-match'>function.preg-match</a>]: Empty regular expression in [APP/views/helpers/menu.php, line 10]
+2008-07-12 15:28:13 Warning: Warning (2): preg_match() [<a href='http://php.net/function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in [APP/views/helpers/menu.php, line 10]
+2008-07-12 15:29:23 Warning: Warning (2): preg_match() [<a href='http://php.net/function.preg-match'>function.preg-match</a>]: Empty regular expression in [APP/views/helpers/menu.php, line 10]
+2008-07-12 15:29:23 Warning: Warning (2): preg_match() [<a href='http://php.net/function.preg-match'>function.preg-match</a>]: Delimiter must not be alphanumeric or backslash in [APP/views/helpers/menu.php, line 10]
+2008-07-13 14:00:39 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 14:01:53 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:02:55 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:04:25 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:04:32 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:05:05 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:10:05 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:10:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:10:25 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:10:32 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:11:53 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:13:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:13:40 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:13:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:16:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:17:21 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:17:52 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:27:58 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:33:26 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:39:56 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:41:43 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:49:22 Error: Fatal Error (256): Smarty error: [in /var/www/localhost/htdocs/app/views/users/friends.tpl line 37]: syntax error: unrecognized tag: Ext.addBehavior({'#delfriend a@click': function(e,t) { var id = Ext.get(t.id).id;var m = id.match('uid_([0-9]+)');Ext.Ajax.request({url: '../delfriend', params: {fid:m[1] (Smarty_Compiler.class.php, line 446) in [APP/vendors/Smarty/Smarty.class.php, line 1092]
+2008-07-13 15:49:23 Error: Fatal Error (256): Smarty error: [in /var/www/localhost/htdocs/app/views/users/friends.tpl line 37]: syntax error: unrecognized tag: Ext.addBehavior({'#delfriend a@click': function(e,t) { var id = Ext.get(t.id).id;var m = id.match('uid_([0-9]+)');Ext.Ajax.request({url: '../delfriend', params: {fid:m[1] (Smarty_Compiler.class.php, line 446) in [APP/vendors/Smarty/Smarty.class.php, line 1092]
+2008-07-13 15:49:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:50:55 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:51:29 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:51:52 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:52:36 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:53:54 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:54:27 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 15:54:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:07:10 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:07:46 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:10:09 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:10:46 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:11:00 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:11:04 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:11:12 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:13:44 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:13:56 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:14:01 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:23:03 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:23:07 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:23:11 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:23:20 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:23:25 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:23:51 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:23:56 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:25:05 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:25:25 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:25:57 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:28:23 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:31:35 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:47:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:48:58 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:49:10 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:54:42 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:54:47 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 16:56:15 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:20:57 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 512]
+2008-07-13 18:20:57 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%98^987^987DC5E5%%train.tpl.php, line 73]
+2008-07-13 18:20:58 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 512]
+2008-07-13 18:20:58 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%98^987^987DC5E5%%train.tpl.php, line 73]
+2008-07-13 18:21:59 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%98^987^987DC5E5%%train.tpl.php, line 73]
+2008-07-13 18:22:11 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%98^987^987DC5E5%%train.tpl.php, line 73]
+2008-07-13 18:22:13 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:22:13 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:23:25 Warning: Warning (2): Division by zero in [APP/tmp/smarty/compile/%%98^987^987DC5E5%%train.tpl.php, line 50]
+2008-07-13 18:23:27 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:23:27 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:24:51 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:24:51 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:26:31 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:26:31 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:28:05 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:28:05 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:28:32 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:28:32 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:28:43 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:28:43 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:29:20 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:29:20 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:30:02 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:30:02 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:31:11 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:31:11 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:32:04 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:32:04 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:46:03 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:54:37 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-13 18:59:09 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-14 10:14:26 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /var/www/localhost/htdocs/app/models/behaviors/soft_deletable.php:334) in [CORE/cake/libs/controller/controller.php, line 577]
+2008-07-14 10:27:55 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-14 10:28:26 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-14 11:09:41 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-14 12:00:31 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-14 12:01:53 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-14 12:02:19 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-14 12:03:36 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-14 12:05:51 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-14 12:08:17 Warning: Warning (512): Smarty error: unable to read resource: "/var/www/localhost/htdocs/app/views/users/transferRatio.tpl" in [APP/vendors/Smarty/Smarty.class.php, line 1092]
+2008-07-15 11:10:48 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:11:14 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:13:58 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:14:22 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:16:52 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:26:32 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:31:34 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:34:13 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:38:18 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:38:42 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:39:09 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:40:07 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:40:31 Warning: Warning (2): Invalid argument supplied for foreach() in [APP/views/helpers/menu.php, line 9]
+2008-07-15 11:43:00 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.name, cg.id, cg.image, COUNT(t.id) as total FROM torrents t LEFT JOIN categorie' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 512]
+2008-07-15 11:43:01 Warning: Warning (512): <span style = "color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.name, cg.id, cg.image, COUNT(t.id) as total FROM torrents t LEFT JOIN categorie' at line 1</span> in [CORE/cake/libs/model/datasources/dbo_source.php, line 512]
